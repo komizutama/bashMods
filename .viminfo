@@ -31,39 +31,43 @@
 "0	CHAR	0
 	e
 ""1	LINE	0
-	git remote add origin https://github.com/komizutama/bashM
+	!/oh-my-git/**
 "2	LINE	0
-	alias .6='cd ../../../../../../'     
+	!/oh-my-git/
 "3	LINE	0
-	alias .5='cd ../../../../../'               # Go back 5 directory levels
+	git remote add origin https://github.com/komizutama/bashM
 "4	LINE	0
-	alias .4='cd ../../../../'                  # Go back 4 directory levels
+	alias .6='cd ../../../../../../'     
 "5	LINE	0
-	alias .3='cd ../../../'                     # Go back 3 directory levels
+	alias .5='cd ../../../../../'               # Go back 5 directory levels
 "6	LINE	0
-	alias ...='cd ../../'                       # Go back 2 directory levels
+	alias .4='cd ../../../../'                  # Go back 4 directory levels
 "7	LINE	0
-	alias ..='cd ../'                           # Go back 1 directory level
+	alias .3='cd ../../../'                     # Go back 3 directory levels
 "8	LINE	0
-	alias cd..='cd ../'                         # Go back 1 directory level (for fast typers)
+	alias ...='cd ../../'                       # Go back 2 directory levels
 "9	LINE	0
-	
+	alias ..='cd ../'                           # Go back 1 directory level
 
 # File marks:
-'0  14  6  ~/.gitignore
-'1  1  0  ~/Development/p5-zip/oceanA/.git/MERGE_MSG
-'2  35  0  ~/.bashrc
-'3  38  0  ~/Development/Udemy/ReactRedux/ReduxSimpleStarter/package.json
-'4  1  0  ~/.bashrc
-'5  1  0  ~/Development/DBTapp/.bashrc
-'6  77  0  ~/oh-my-git/prompt.sh
-'7  2  0  ~/.bashrc
-'8  1  0  ~/oh-my-git/.bashrc
-'9  1  0  ~/oh-my-git/prompt.sh
+'0  5  0  ~/.gitignore
+'1  14  10  ~/.gitignore
+'2  2  0  ~/.git/COMMIT_EDITMSG
+'3  12  6  ~/.gitignore
+'4  1  0  ~/Development/p5-zip/oceanA/.git/MERGE_MSG
+'5  35  0  ~/.bashrc
+'6  38  0  ~/Development/Udemy/ReactRedux/ReduxSimpleStarter/package.json
+'7  1  0  ~/.bashrc
+'8  1  0  ~/Development/DBTapp/.bashrc
+'9  77  0  ~/oh-my-git/prompt.sh
 
 # Jumplist (newest first):
--'  14  6  ~/.gitignore
+-'  5  0  ~/.gitignore
 -'  1  0  ~/.gitignore
+-'  14  10  ~/.gitignore
+-'  2  0  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/.git/COMMIT_EDITMSG
+-'  12  6  ~/.gitignore
 -'  1  0  ~/Development/p5-zip/oceanA/.git/MERGE_MSG
 -'  35  0  ~/.bashrc
 -'  1  0  ~/.bashrc
@@ -156,35 +160,39 @@
 -'  4  0  ~/Development/gittest/gitbio.txt
 -'  1  0  ~/Development/gittest/gitbio.txt
 -'  2  62  ~/Development/gittest/gitbio.txt
--'  1  0  ~/Development/gittest/.git/COMMIT_EDITMSG
--'  4  0  ~/Development/gittest/gitbio.txt
--'  1  0  ~/Development/gittest/gitbio.txt
--'  2  62  ~/Development/gittest/gitbio.txt
--'  1  0  ~/.bash_proile
 
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	"	14	6
-	^	14	7
-	.	4	2
+	"	5	0
+	^	14	11
+	.	5	0
 	+	1	2
-	+	13	1
+	+	11	1
 	+	1	2
 	+	3	5
-	+	6	13
+	+	5	13
 	+	3	2
 	+	1	2
-	+	7	0
-	+	8	1
-	+	9	1
-	+	14	6
-	+	10	13
+	+	5	0
+	+	6	1
+	+	7	1
+	+	12	6
+	+	8	13
 	+	3	3
 	+	1	17
 	+	4	33
-	+	11	0
+	+	9	0
 	+	4	2
+	+	3	2
+	+	14	10
+	+	5	0
+
+> ~/.git/COMMIT_EDITMSG
+	"	2	0
+	^	1	63
+	.	1	62
+	+	1	62
 
 > ~/.gitignore.swp
 	"	1	0

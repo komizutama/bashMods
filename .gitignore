@@ -1,0 +1,14 @@
+#ignores all files
+/**
+/**/**
+#removes these from the ignore list
+!.bashrc
+!.bashrc_backup
+!.bash_profile
+!.bash_history
+
+
+!.viminfo
+!.vimrc
+
+!.gitignore

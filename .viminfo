@@ -50,24 +50,25 @@
 	alias ..='cd ../'                           # Go back 1 directory level
 
 # File marks:
-'0  5  0  ~/.gitignore
-'1  14  10  ~/.gitignore
-'2  2  0  ~/.git/COMMIT_EDITMSG
-'3  12  6  ~/.gitignore
-'4  1  0  ~/Development/p5-zip/oceanA/.git/MERGE_MSG
-'5  35  0  ~/.bashrc
-'6  38  0  ~/Development/Udemy/ReactRedux/ReduxSimpleStarter/package.json
-'7  1  0  ~/.bashrc
-'8  1  0  ~/Development/DBTapp/.bashrc
-'9  77  0  ~/oh-my-git/prompt.sh
+'0  10  0  ~/.gitignore
+'1  5  0  ~/.gitignore
+'2  15  10  ~/.gitignore
+'3  2  0  ~/.git/COMMIT_EDITMSG
+'4  13  6  ~/.gitignore
+'5  1  0  ~/Development/p5-zip/oceanA/.git/MERGE_MSG
+'6  35  0  ~/.bashrc
+'7  38  0  ~/Development/Udemy/ReactRedux/ReduxSimpleStarter/package.json
+'8  1  0  ~/.bashrc
+'9  1  0  ~/Development/DBTapp/.bashrc
 
 # Jumplist (newest first):
--'  5  0  ~/.gitignore
+-'  10  0  ~/.gitignore
 -'  1  0  ~/.gitignore
--'  14  10  ~/.gitignore
+-'  5  0  ~/.gitignore
+-'  15  10  ~/.gitignore
 -'  2  0  ~/.git/COMMIT_EDITMSG
 -'  1  0  ~/.git/COMMIT_EDITMSG
--'  12  6  ~/.gitignore
+-'  13  6  ~/.gitignore
 -'  1  0  ~/Development/p5-zip/oceanA/.git/MERGE_MSG
 -'  35  0  ~/.bashrc
 -'  1  0  ~/.bashrc
@@ -159,16 +160,15 @@
 -'  1  0  ~/Development/gittest/.git/COMMIT_EDITMSG
 -'  4  0  ~/Development/gittest/gitbio.txt
 -'  1  0  ~/Development/gittest/gitbio.txt
--'  2  62  ~/Development/gittest/gitbio.txt
 
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	"	5	0
-	^	14	11
-	.	5	0
+	"	10	0
+	^	10	0
+	.	9	25
 	+	1	2
-	+	11	1
+	+	12	1
 	+	1	2
 	+	3	5
 	+	5	13
@@ -177,7 +177,7 @@
 	+	5	0
 	+	6	1
 	+	7	1
-	+	12	6
+	+	13	6
 	+	8	13
 	+	3	3
 	+	1	17
@@ -185,8 +185,9 @@
 	+	9	0
 	+	4	2
 	+	3	2
-	+	14	10
+	+	15	10
 	+	5	0
+	+	9	25
 
 > ~/.git/COMMIT_EDITMSG
 	"	2	0
